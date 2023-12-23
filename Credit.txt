@@ -1,0 +1,103 @@
+REFERENCES:
+
+
+ReligionGlossary.txt
+
+1:
+Religious Tolerance. GLOSSARY OF RELIGIOUS TERMS:
+https://www.religioustolerance.org/glossary.htm#menu
+
+2:
+Wikipedia. Category:Religious_terminology - Wikipedia
+https://en.wikipedia.org/wiki/Category:Religious_terminology
+
+3:
+Harvard University. Glossary | The Pluralism Project
+https://pluralism.org/glossary
+
+
+
+GenderGlossary.txt
+
+1:
+University of Southern California. A Gender Identity Glossary for Schools | USC Rossier
+https://rossieronline.usc.edu/blog/gender-identity-glossary/
+
+2:
+Michigan State University. Glossary | The Gender and Sexuality Campus Center | Michigan State University
+https://gscc.msu.edu/education/glossary.html
+
+3:
+Kylie Ora Lobell. 2019. Glossary on Gender Identity and Sexual Orientation
+https://www.shrm.org/resourcesandtools/legal-and-compliance/employment-law/pages/glossary-on-gender-identity-and-sexual-orientation.aspx
+
+
+
+EthnicityAndRaceGlossary.txt
+
+1:
+Wikipedia. List of ethnic slurs - Wikipedia
+https://en.wikipedia.org/wiki/List_of_ethnic_slurs
+
+2:
+KnowItAll. Demonyms.csv
+https://github.com/knowitall/chunkedextractor/blob/master/src/main/resources/edu/knowitall/chunkedextractor/demonyms.csv
+
+3:
+Eric Jensen. 2021. Measuring Racial and Ethnic Diversity for the 2020 Census
+https://www.census.gov/newsroom/blogs/random-samplings/2021/08/measuring-racial-ethnic-diversity-2020-census.html
+
+
+
+AgeGlossary.txt
+
+1:
+Amanda Morin. 2013. Bad Words Kids Shouldn't Say | POPSUGAR Family
+https://www.popsugar.com/family/Bad-Words-Kids-Shouldnt-Say-28491890
+
+2:
+Team ParentCircle. 75 Negative and Bad Words Parents Need to Erase From Their Vocabulary
+https://www.parentcircle.com/parents-need-to-erase-these-common-words-phrases-from-their-vocabulary/article
+
+
+
+Slang.txt
+
+1:
+Dimitrios Effrosynidis. slang.txt
+https://github.com/Deffro/text-preprocessing-techniques/blob/master/slang.txt
+
+2:
+List of Swear Words, Bad Words & Curse Words
+https://www.noswearing.com/dictionary
+
+
+
+OffensiveWithSeverity.txt
+
+1:
+Wikipedia. Category:English swear words- Wikipedia
+https://en.wiktionary.org/wiki/Category:English_swear_words
+
+2:
+Luis von Ahn. Useful Resources
+https://www.cs.cmu.edu/~biglou/resources/bad-words.txt
+
+
+
+Negation.txt
+
+1:
+Grammarly. Negatives and Negation–Grammar Rules | Grammarly
+https://www.grammarly.com/blog/negatives/
+
+2:
+Cambridge Dictionary. Negation - English Grammar Today - Cambridge Dictionary 
+https://dictionary.cambridge.org/grammar/british-grammar/negation_2
+
+
+
+cyberbullying_tweets.csv
+
+Larxel (kaggle.com/andrewmvd). Cyberbullying Classification | Kaggle
+https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification

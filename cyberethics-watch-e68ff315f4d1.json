@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cyberethics-watch",
+  "private_key_id": "e68ff315f4d1e75038276c254f20b154cfe5caed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWYG7YR3Off/YX\nNCVjJfO2GBQ2HuGKFhlQoeNKUBlSowl3+EkUoynwokCZxlVM0yWZLExRIxPzM122\nryDCP3HalzYVvBPCUR+utEerdQOPRFGCFxS+c8ptf9Ns52hhfw55Taq6uPN4GUg9\nfwzonU4AEZ/+Zrv0r5ehvGMU6vb1rBn3dG/1A/rKer7LUbW10nhnwUTGqro85nW7\nS4M9vP48AQQwUH4L7ctscjUWS0dpMFzqmI7hFKmeus0WHWtEvXgCfaKtEWnHlJ/J\n1Pi1VsXfsRGi8nxF+Jf74fmVuzSTaLYmOHm+JqlaS4v/W9wjv3hOnK2Td0GbkInT\ngEdfX/CjAgMBAAECggEAClyyxqyFxyPmLUsmmGJxHMcj/Wa7W+yR6gB9zQ0f8ZXS\nfTXas1Va+n3zvaTxE84o9RkcWSr1oPiVKJWAyGHe0pVA4NaI9gbpC/zYQ3RYvnKS\nu0gj4cvQ0yLPyt1XUACVWr6DWUKNZGU5mSM8HHtaeJ6+S6WApifDZx24JiTax6rt\nL4DFviqsryiMC2kDeTvfvfzckHTCMFm1hQF5+qBZrM3o96krl/3eHtlo2Gfsq38A\nCVFkyYJdKHX2mW1/Giv+5KmwzDn2tydOTjZSX3hu7jMxa/XqA4A9F1+LcsZv2ikd\n1k4+5k9+x58Qs5frEjMwS3mU4AO4IYqnKDP+sm164QKBgQDUNB17f+r7xTclJ09u\nPrH1uu0Qc9Q42zg/MrHUKwlREZZdZTpk8OY6r6wvThQbzajwI/wTGdfMY3wSKqCA\nxLKZkrek2EgVIbtyD+UAsb6TuZzQY9fIrinfVkzjd+BM0KnTCgXKggNUNrpQLA8f\n1aqXA7i5Se/yCi9wAbRDdFc9dwKBgQC1aaml1eVcyndYHM5qtfk6PI3EdiLFHeNk\novXNOZIZtpI7c6qpQJZMN+zQZKEAVM1KSrmdZjy2hh9D6TcME+8lJSPIb7n4wENw\n/BzU/jhfH2INJGKyJvxDqojoop+TJjvTf0hiVdoH3hPSsJJsXoGUC/l5wInL+1cV\nk30rPDNBNQKBgC/57GR8okLz7qjOv22cbR2yemCK34NPROM88emXJU8X29gXx+EE\nefjwuMwlKfSzRautZxNmd1y1bVqqGomibwK7oht57qoga0G5iDvk88JwZ5zRxfqQ\nLdVZrJ6M/sA/OPYGwRJs3JXQncT8gRrgcuYbqEr0BXTCisEXEYtipUq3AoGBALNz\n82JdhUbV7VqXHEWI/yHxlpdZ+SkeWLtLTHUXVwPiiyMOVyqX/lUlGThH4s/OE0lD\nQ/uEj9hKMpFeGJr0+SK4a34xrzh3D/+rFOZJGABYrgisDomGcRKKlmXxwIKyVonv\npe3IWSZhMyC+lAlpLysA8WbT5DuIxGtOe4oSQe1lAoGBAKXgP3z/UAGECiYrTNyy\njKwFFV6nIl3zMd+a/P1xKONdn75aahy4JHaMuZ7aXF+7flnCycxLPE9ZUNzbUhU3\nDJj2oUM+AIa1FIr/r+vRjVdm2klOVrRmMkgRUpQsNVY4gsVYqeTHBQWBtrhJLzN+\n7R8anDAU1D0S8ik0V3kngRkT\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9gixx@cyberethics-watch.iam.gserviceaccount.com",
+  "client_id": "109102864533557009363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9gixx%40cyberethics-watch.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
